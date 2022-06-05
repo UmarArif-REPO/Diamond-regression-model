@@ -1,0 +1,19 @@
+body 
+{
+    background-color: lightblue;
+}
+
+h1
+{
+    color: black;
+}
+
+input[type=text]:focus 
+{
+    background-color: lightblue;
+}
+
+.form
+{
+    background-color: pink;
+}
